@@ -60,7 +60,7 @@ export default function Portfolio() {
   const experience = [
     {
       title: "Full-Stack Blockchain Engineer",
-      company: "Freelace",
+      company: "Freelance",
       period: "Current",
       description: "Building smart wallet infrastructure and blockchain applications",
       tech: ["React.js", "Node.js", "Docker", "Next.js"]
