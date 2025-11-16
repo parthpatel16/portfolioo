@@ -390,7 +390,7 @@ export default function Portfolio() {
             >
               <div className={`relative rounded-2xl overflow-hidden ${theme.shadow} border ${theme.border}`}>
                 <img
-                  src="./parth photo.jpg" 
+                  src="parth photo.jpg" 
                   alt="Profile"
                   className="w-full h-[400px] sm:h-[500px] object-cover"
                 />
