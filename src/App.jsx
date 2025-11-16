@@ -46,8 +46,8 @@ export default function Portfolio() {
 
   const allSkills = [
     "React", "JavaScript", "TypeScript", "Tailwind CSS", "Next.js", "Framer Motion",
-    "Node.js", "Express", "MongoDB", "PostgreSQL", "REST APIs", "GraphQL",
-    "Web3.js", "Solidity", "IPFS", "Smart Contracts", "Rust", "Solana",
+    "Node.js", "Express", "MongoDB",  "REST APIs", "GraphQL",
+    "Web3.js", "Solidity", "IPFS", "Smart Contracts", 
     "Git", "Docker", "AWS", "Vercel", "Netlify", "Figma", "Python", "FastAPI"
   ];
 
@@ -60,10 +60,10 @@ export default function Portfolio() {
   const experience = [
     {
       title: "Full-Stack Blockchain Engineer",
-      company: "Wildcard",
+      company: "Freelace",
       period: "Current",
       description: "Building smart wallet infrastructure and blockchain applications",
-      tech: ["Rust", "Solana", "EVM", "Next.js"]
+      tech: ["React.js", "Node.js", "Docker", "Next.js"]
     }
   ];
 
@@ -338,9 +338,9 @@ export default function Portfolio() {
               </div>
 
               <p className={`text-base sm:text-lg ${theme.textSecondary} leading-relaxed`}>
-                I'm a Full Stack Blockchain Developer crafting cutting-edge dApps and DeFi solutions. 
-                From writing secure smart contracts to building intuitive Web3 interfaces, I turn complex 
-                blockchain concepts into user-friendly experiences.
+                I’m a MERN Stack Full Stack Developer who builds end-to-end applications with modern UI, secure APIs, and optimized databases.
+                I focus on writing clean code, reusable components, and scalable backend services.
+                I deliver powerful full-stack apps with real-world performance and usability.
               </p>
 
               <div className="flex flex-wrap gap-4 items-center">
