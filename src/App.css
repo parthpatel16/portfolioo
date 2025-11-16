@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1px;
+  background-color: #1a1a1a;
+  padding: 1px;
+  width: 100%;
+  height: 100vh;
+}
+
+.grid-cell {
+  background-color: #0a0a0a;
+  border: 1px solid #333;
+  min-height: 100px;
+}
