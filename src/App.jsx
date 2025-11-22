@@ -414,8 +414,8 @@ export default function Portfolio() {
                 transition={{ delay: 0.7 }}
                 className={`absolute -right-4 bottom-1/4 ${theme.cardBg} backdrop-blur-md rounded-xl p-4 border ${theme.border}`}
               >
-                <p className="text-3xl font-bold text-violet-500">2+</p>
-                <p className={`text-sm ${theme.textSecondary}`}>Years Exp</p>
+                <p className="text-3xl font-bold text-violet-500"></p>
+                <p className={`text-sm ${theme.textSecondary}`}>Fresher</p>
               </motion.div>
             </motion.div>
           </div>
@@ -621,8 +621,8 @@ export default function Portfolio() {
               <ul className={`space-y-3 ${theme.textSecondary} text-sm sm:text-base`}>
                 <li>• 2+ years building scalable web applications</li>
                 <li>• Won multiple hackathons including CyberGuard AI</li>
-                <li>• Contributed to 10+ open-source projects</li>
-                <li>• Deployed 15+ production applications</li>
+                <li>• Contributed to 1+ open-source projects</li>
+                <li>• Deployed 5+ production applications</li>
               </ul>
             </div>
 
