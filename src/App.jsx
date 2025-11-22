@@ -47,14 +47,14 @@ export default function Portfolio() {
   const allSkills = [
     "React", "JavaScript", "TypeScript", "Tailwind CSS", "Next.js", "Framer Motion",
     "Node.js", "Express", "MongoDB",  "REST APIs", "GraphQL",
-    "Web3.js", "Solidity", "IPFS", "Smart Contracts", 
+   "Solidity", "Smart Contracts", 
     "Git", "Docker", "AWS", "Vercel", "Netlify", "Figma", "Python", "FastAPI"
   ];
 
   const achievements = [
     { icon: Award, title: "Hackathon Winner", desc: "1st Place - CyberGuard AI" },
-    { icon: Code, title: "Open Source", desc: "10+ contributions" },
-    { icon: Rocket, title: "Projects Deployed", desc: "15+ live applications" },
+    { icon: Code, title: "Open Source", desc: "2 contributions" },
+    { icon: Rocket, title: "Projects Deployed", desc: "4+ live applications" },
   ];
 
   const experience = [
